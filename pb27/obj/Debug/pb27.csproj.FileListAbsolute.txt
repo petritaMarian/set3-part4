@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\program uni\set3\pb27\bin\Debug\pb27.exe.config
+C:\Users\maria\Documents\program uni\set3\pb27\bin\Debug\pb27.exe
+C:\Users\maria\Documents\program uni\set3\pb27\bin\Debug\pb27.pdb
+C:\Users\maria\Documents\program uni\set3\pb27\obj\Debug\pb27.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\program uni\set3\pb27\obj\Debug\pb27.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\program uni\set3\pb27\obj\Debug\pb27.exe
+C:\Users\maria\Documents\program uni\set3\pb27\obj\Debug\pb27.pdb
